@@ -2,7 +2,7 @@
 
 # Técnicas de Programação - Projeto EDA
 
-* Hariamy Maciel Vasconcelos - 397613 
+* Hariamy Maciel Vasconcelos
 
 
 ## Dados
