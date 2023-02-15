@@ -1,5 +1,3 @@
-# ada_projeto_eda
-
 # Técnicas de Programação - Projeto EDA
 
 * Hariamy Maciel Vasconcelos
