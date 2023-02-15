@@ -10,11 +10,11 @@
 * Dados de monitoramento ambiental realizado durante as obras do aterro da praia de Iracema em Fortaleza - CE
 * Dados coletados e disponiblizados pelo Laboratório de Dinâmica Populacional e Ecologia de Peixes Marinhos (DIPEMAR) do Instituto de Ciências do Mar – Labomar UFC.
 
-## Sobre as coletas
+### Sobre as coletas
 
 - 10845 entradas
 
-# Atributos
+### Atributos
 * data
 * arrasto
 * local
@@ -22,5 +22,5 @@
 * tamanho em centímetros
 * peso em gramas
 
-## Referencia
+## Referência
 [Link](https://repositorio.ufc.br/handle/riufc/67993)
